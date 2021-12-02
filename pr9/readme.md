@@ -6,7 +6,7 @@
      height="600">
 <img src="1.png" 
      height="600">
-<img src="ALLPRACTIC 2021-12-01 14-07-52.gif" 
-     height="600">
 <img src="Android Emulator - Pixel_4_API_30_5554 2021-12-01 14-06-12.gif" 
+     height="600">
+<img src="ALLPRACTIC 2021-12-01 14-07-52.gif" 
      height="600">
