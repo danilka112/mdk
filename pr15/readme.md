@@ -2,4 +2,7 @@
 ==============================
 Тема:"Диалоги. ProgressDialog"
 ==============================
-<img src="1.png" height="600">
+<img src="1.png"
+     height="600">
+<img src="pr12.gif"
+     height="600">
